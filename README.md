@@ -51,6 +51,8 @@ The dataset contains credit card transaction records with features such as trans
 ## Conclusion
 
 The Credit Card Fraud Detection System uses machine learning and data analytics to study transaction behavior, identify potential fraud, and support secure financial transactions.
+
+
 <img width="566" height="393" alt="image" src="https://github.com/user-attachments/assets/c63eee11-dbea-4691-8fd7-24fd841951c4" />
 <img width="721" height="470" alt="image" src="https://github.com/user-attachments/assets/e011328d-9ab1-4c76-83b7-3f3e646b0f72" />
 <img width="718" height="470" alt="image" src="https://github.com/user-attachments/assets/2d6f7d79-8597-46bb-b48a-56e0dcce8032" />
